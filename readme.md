@@ -36,9 +36,10 @@ You'll get the Database file , client folder and a server folder
 2. After that Open the main project folder on your code editor (i'll prefer open it on VScODE)
 3. when it'll open then Simply open the terminal and split your terminal into two parts 
 4. in first terminal write the command >> cd client 
-      After that write the command >> npm start
+     , After that write the command >> npm start
+      <br />
 5 . in second terminal write the command >> cd server
-      After that write the command >> npm start
+     , After that write the command >> npm start
       
 That's it,,,, Now your application will be visible on the browser as
 # localhost:3000    (client panel)
