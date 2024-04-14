@@ -13,10 +13,10 @@ The Food Delivery with React.js, Node.js, and MySQL project was developed during
 
 ## Screenshots
 
-- Super Admin Panel: [Screenshot](https://user-images.githubusercontent.com/107019903/207792045-d5e9614d-0078-4dd9-98a0-0020ad6cc565.png)
-- Sub Admin Panel: [Screenshot](https://user-images.githubusercontent.com/107019903/207792128-fb21092c-adbf-41da-8cea-bff52f1746c9.png)
-- Delivery Rider Panel: [Screenshot](https://user-images.githubusercontent.com/107019903/207792234-66c775c6-75db-4cba-b9ab-037fc5c418be.png)
-- User Interface: [Screenshot](https://user-images.githubusercontent.com/107019903/207792381-0c3f4b90-6376-4d72-90fe-f73ec0f89f80.png)
+- Super Admin Panel: ![Screenshot (211)](https://user-images.githubusercontent.com/107019903/207792045-d5e9614d-0078-4dd9-98a0-0020ad6cc565.png)
+- Sub Admin Panel: ![Screenshot (212)](https://user-images.githubusercontent.com/107019903/207792128-fb21092c-adbf-41da-8cea-bff52f1746c9.png)
+- Delivery Rider Panel: ![Screenshot (213)](https://user-images.githubusercontent.com/107019903/207792234-66c775c6-75db-4cba-b9ab-037fc5c418be.png)
+- User Interface: ![Screenshot (210)](https://user-images.githubusercontent.com/107019903/207792381-0c3f4b90-6376-4d72-90fe-f73ec0f89f80.png)
 
 ## How to Run
 
