@@ -1,51 +1,56 @@
-#fooddevlieevrywithreactjs #foodelieverywithReactjsNodejs #foodelieverywithReactjsNodejsMysql
+# Food Delivery with React.js, Node.js, and MySQL
 
-I’ve made this application during my 6 
-                Month Industrial training . It Consist of 
-                Panels <br/>
-                1. Admin Panel  <br/>
-                2. Delievery Rider Panel  <br/>
-                3. Restaurant Panel  <br/>
-                4. Client Panel
+## Overview
 
-# Project Link Is :  https://drive.google.com/drive/folders/1X6KbsZBuGI3PrBME9Yg59C4Oqf8A11lH?usp=sharing
+The Food Delivery with React.js, Node.js, and MySQL project was developed during a 6-month industrial training program. It consists of multiple panels catering to different roles within the food delivery system, including the admin panel, delivery rider panel, restaurant panel, and client panel.
 
-You'll get the Database file , client folder and a server folder 
+## Project Panels
 
-## Super Admin Panel (Owner Panel)
+1. **Admin Panel**: Super Admin Panel for managing the entire system.
+2. **Restaurant Panel**: Sub Admin Panel for managing restaurant-related operations.
+3. **Delivery Rider Panel**: Panel for delivery riders to manage delivery tasks.
+4. **Client Panel**: User interface for clients to place orders and track delivery.
 
-![Screenshot (211)](https://user-images.githubusercontent.com/107019903/207792045-d5e9614d-0078-4dd9-98a0-0020ad6cc565.png)
+## Screenshots
 
-## Sub Admin Panel (Restaurant Panel)
+- Super Admin Panel: [Screenshot](https://user-images.githubusercontent.com/107019903/207792045-d5e9614d-0078-4dd9-98a0-0020ad6cc565.png)
+- Sub Admin Panel: [Screenshot](https://user-images.githubusercontent.com/107019903/207792128-fb21092c-adbf-41da-8cea-bff52f1746c9.png)
+- Delivery Rider Panel: [Screenshot](https://user-images.githubusercontent.com/107019903/207792234-66c775c6-75db-4cba-b9ab-037fc5c418be.png)
+- User Interface: [Screenshot](https://user-images.githubusercontent.com/107019903/207792381-0c3f4b90-6376-4d72-90fe-f73ec0f89f80.png)
 
-![Screenshot (212)](https://user-images.githubusercontent.com/107019903/207792128-fb21092c-adbf-41da-8cea-bff52f1746c9.png)
+## How to Run
 
-## Delievery Rider Panel 
+To run this project, follow these steps:
 
-![Screenshot (213)](https://user-images.githubusercontent.com/107019903/207792234-66c775c6-75db-4cba-b9ab-037fc5c418be.png)
+1. **Set Up Database**:
+   - Open your XAMPP server and create a database named `food_delivery_db`.
+   - Import the `food_delivery_db.sql` file provided into your database.
 
-## User Interface (User Panel)
+2. **Clone and Open Project**:
+   - Clone or download the project from the provided link.
+   - Open the project folder in your preferred code editor (e.g., VSCode).
 
-![Screenshot (210)](https://user-images.githubusercontent.com/107019903/207792381-0c3f4b90-6376-4d72-90fe-f73ec0f89f80.png)
+3. **Run Client and Server**:
+   - Open a terminal in the project folder and split it into two parts.
+   - In the first terminal, navigate to the `client` folder and run:
+     ```bash
+     npm start
+     ```
+   - In the second terminal, navigate to the `server` folder and run:
+     ```bash
+     npm start
+     ```
 
+4. **Access the Application**:
+   - The application will be accessible at the following URLs:
+     - Client Panel: [http://localhost:3000](http://localhost:3000)
+     - Admin Panel: [http://localhost:3000/Admin_public/adminlogin](http://localhost:3000/Admin_public/adminlogin)
+   - Use the login credentials from the database to access the appropriate panels.
 
-# Steps to run This Project 
+## Support
 
-1. Open You Xampp server and make the database named >> food_delievery_db 
-    after that import the "food_delievery_db.sql" file into your database.
-2. After that Open the main project folder on your code editor (i'll prefer open it on VScODE)
-3. when it'll open then Simply open the terminal and split your terminal into two parts 
-4. in first terminal write the command >> cd client 
-     , After that write the command >> npm start
-      <br />
-5 . in second terminal write the command >> cd server
-     , After that write the command >> npm start
-      
-That's it,,,, Now your application will be visible on the browser as
-# localhost:3000    (client panel)
-# localhost:3000/Admin_public/adminlogin  (restricted or Admin area)
+For any inquiries or assistance regarding the Food Delivery with React.js, Node.js, and MySQL project, feel free to reach out via Instagram: [@555princesharma](https://www.instagram.com/555princesharma/).
 
-You can get the required login credentials from the database and the appropriate table for which you want the login credentials
+## License
 
-Thankyou !!
-If any problem occurs , just msg me on my instagram username :- 555princesharma
+This project is licensed under the [MIT License](LICENSE).
